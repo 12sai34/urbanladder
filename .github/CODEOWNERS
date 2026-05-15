@@ -1,0 +1,43 @@
+# CODE OWNERSHIP FILE
+# This file defines who owns what in the urbanladder repository
+# For more details, see CODE_OWNERSHIP.md
+
+# Default owner for everything
+* @saiganesh
+
+# ============================================================
+# BOOKSHELVES FEATURE - Ranjith Kumar
+# ============================================================
+Features/Bookshelves.feature @Ranjithkumar-4
+src/test/java/stepDefinitions/BookshelvesSteps.java @Ranjithkumar-4
+src/test/java/pageObjects/BookShelvesPage.java @Ranjithkumar-4
+
+# ============================================================
+# COLLECTIONS/LIVING ROOM FEATURE - Sai Ganesh
+# ============================================================
+Features/Collections.feature @saiganesh
+src/test/java/stepDefinitions/CollectionsSteps.java @saiganesh
+src/test/java/pageObjects/livingroom.java @saiganesh
+
+# ============================================================
+# GIFT CARD FEATURE - Saran & Ramprasath
+# ============================================================
+Features/GiftCards.feature @saran-csk
+src/test/java/stepDefinitions/GiftCardSteps.java @saran-csk
+src/test/java/pageObjects/GiftCardPage.java @saran-csk
+src/test/java/pageObjects/payment.java @saran-csk
+
+# ============================================================
+# SHARED/COMMON COMPONENTS - Sai Ganesh (Lead)
+# ============================================================
+src/test/java/factory/BaseClass.java @saiganesh
+src/test/java/stepDefinitions/Hooks.java @saiganesh
+src/test/java/pageObjects/Homepage.java @saiganesh
+src/test/java/pageObjects/Basepage.java @saiganesh
+
+# ============================================================
+# DOCUMENTATION & CONFIG
+# ============================================================
+CODE_OWNERSHIP.md @saiganesh
+README.md @saiganesh
+pom.xml @saiganesh
