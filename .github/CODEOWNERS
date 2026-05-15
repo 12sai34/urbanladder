@@ -3,7 +3,7 @@
 # For more details, see CODE_OWNERSHIP.md
 
 # Default owner for everything
-* @saiganesh
+* @12sai34
 
 # ============================================================
 # BOOKSHELVES FEATURE - Ranjith Kumar
@@ -15,9 +15,9 @@ src/test/java/pageObjects/BookShelvesPage.java @Ranjithkumar-4
 # ============================================================
 # COLLECTIONS/LIVING ROOM FEATURE - Sai Ganesh
 # ============================================================
-Features/Collections.feature @saiganesh
-src/test/java/stepDefinitions/CollectionsSteps.java @saiganesh
-src/test/java/pageObjects/livingroom.java @saiganesh
+Features/Collections.feature @12sai34
+src/test/java/stepDefinitions/CollectionsSteps.java @12sai34
+src/test/java/pageObjects/livingroom.java @12sai34
 
 # ============================================================
 # GIFT CARD FEATURE - Saran & Ramprasath
@@ -28,16 +28,21 @@ src/test/java/pageObjects/GiftCardPage.java @saran-csk
 src/test/java/pageObjects/payment.java @saran-csk
 
 # ============================================================
+# ALL OTHER FEATURES - Default to Sai Ganesh
+# ============================================================
+Features/ @12sai34
+
+# ============================================================
 # SHARED/COMMON COMPONENTS - Sai Ganesh (Lead)
 # ============================================================
-src/test/java/factory/BaseClass.java @saiganesh
-src/test/java/stepDefinitions/Hooks.java @saiganesh
-src/test/java/pageObjects/Homepage.java @saiganesh
-src/test/java/pageObjects/Basepage.java @saiganesh
+src/test/java/factory/BaseClass.java @12sai34
+src/test/java/stepDefinitions/Hooks.java @12sai34
+src/test/java/pageObjects/Homepage.java @12sai34
+src/test/java/pageObjects/Basepage.java @12sai34
 
 # ============================================================
 # DOCUMENTATION & CONFIG
 # ============================================================
-CODE_OWNERSHIP.md @saiganesh
-README.md @saiganesh
-pom.xml @saiganesh
+CODE_OWNERSHIP.md @12sai34
+README.md @12sai34
+pom.xml @12sai34
