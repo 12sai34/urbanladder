@@ -2,7 +2,7 @@
 # This file defines who owns what in the urbanladder repository
 
 # Default owner for everything
-* @12sai34
+* @saran-csk
 
 # CONFIGURATION & LOGGING
 project_structure/UrbanLadder/src/test/resources/log4j2.xml @12sai34
