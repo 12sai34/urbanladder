@@ -6,6 +6,11 @@
 * @12sai34
 
 # ============================================================
+# CONFIGURATION & LOGGING - Sai Ganesh
+# ============================================================
+project_structure/UrbanLadder/src/test/resources/log4j2.xml @12sai34
+
+# ============================================================
 # BOOKSHELVES FEATURE - Ranjith Kumar
 # ============================================================
 Features/Bookshelves.feature @Ranjithkumar-4
